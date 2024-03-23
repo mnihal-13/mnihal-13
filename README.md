@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!!<a <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a> I'm Mohammed Nihal</h2>
+<h2 align="left">Hello World!!<a <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="16px"/> </a> I'm Mohammed Nihal</h2>
 
 ###
 
