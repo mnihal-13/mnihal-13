@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img height="251" width="20" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
+  <img height="251" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
 </div>
 
 ###
