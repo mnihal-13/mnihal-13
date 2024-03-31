@@ -30,13 +30,6 @@
 <img src="https://raw.githubusercontent.com/mnihal-13/mnihal-13/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img height="251" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
   <img width="20" />
@@ -67,13 +60,20 @@
 
 ###
 
+<div align="left">
+  <img height="251" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
+</div>
+
+
+###
+
 <div align="right">
   <img src="https://profile-counter.glitch.me/mnihal-13/count.svg?"  />
 </div>
 
 ###
 
-<br clear="both">
+# <br clear="both"> 
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mnihal-13.mnihal-13&left_color=indigo&left_text=Who's%20There"  />
