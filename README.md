@@ -1,4 +1,4 @@
-<h2 align="left">Hey There!! <img height="10" width="10" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal 🧑‍💻 </h2>
+<h2 align="left">Hey There!! <img height="20"  src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal 🧑‍💻 </h2>
 
 ###
 
