@@ -8,13 +8,14 @@
   </a>
   <img width="33" />
   <a href="https://twitter.com/mnihal_13">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  />
+    <\a>
 </div>
 
 ###
 
 
-<div align="center">
+<div align="left">
   <a href="mailto:mnkv1013@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
