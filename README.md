@@ -4,8 +4,9 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammed-nihal-kv-mn13">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="57" alt="linkedin logo"  /> </a>
-  <img width="33" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="57" alt="linkedin logo"  />
+    <img width="33" />
+  </a>
   <a href="https://twitter.com/mnihal_13">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  />
 </div>
