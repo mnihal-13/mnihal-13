@@ -8,8 +8,7 @@
   </a>
   <img width="33" />
   <a href="https://twitter.com/mnihal_13">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  />
-  <\a>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  />  
 </div>
 
 ###
