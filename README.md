@@ -2,15 +2,18 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/mohammed-nihal-kv-mn13">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="57" alt="linkedin logo"  />
   </a>
-  <img width="19" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="57" alt="discord logo"  />
+  <img width="33" />
+  <a href="https://twitter.com/mnihal_13">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  />
+  <\a>  
 </div>
 
 ###
+
 
 <div align="center">
   <a href="mailto:mnkv1013@gmail.com" target="blank">
