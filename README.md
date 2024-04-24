@@ -1,4 +1,4 @@
-<h2 align="left">Hey There!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal 🧑‍💻 </h2>
+<h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal 🧑‍💻 </h2>
 
 ###
 
@@ -8,7 +8,7 @@
   </a>
     <img width="33" />
   <a href="https://twitter.com/mnihal_13">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  /> </a>
 </div>
 
 ###
