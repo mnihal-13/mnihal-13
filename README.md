@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<h3> <a href="https://wa.me/+918129765764"> -> Or click here to reach me on WhatsApp <img src="https://i.pinimg.com/originals/b0/bf/58/b0bf582536c681f029fac03ef073e160.jpg"   height="15" width="15"/>!! 
+<h3> <a href="https://wa.me/+918129765764"> -> Or click here to reach me on WhatsApp <img src="https://i.pinimg.com/originals/b0/bf/58/b0bf582536c681f029fac03ef073e160.jpg"   height="20" width="20"/>!! 
   </a></h3>
 
 ###
