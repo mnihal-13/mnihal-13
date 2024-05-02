@@ -21,7 +21,7 @@
 </div>
 
 <h3> <a href="https://wa.me/+918129765764"> "Or click here to reach me on WhatsApp!!"  
-    <img src="https://th.bing.com/th/id/OIP.p-dggqWZrujP78p206rMcwHaHL?w=880&h=854&rs=1&pid=ImgDetMain" height="30" width="30"/>
+    <img src="https://icon-library.com/images/whatsapp-png-icon/whatsapp-png-icon-0.jpg" height="30" width="30"/>
   </a></h3>
 
 ###
