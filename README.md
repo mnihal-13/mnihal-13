@@ -1,7 +1,7 @@
 <h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal 🧑‍💻 </h2>
 
 ###
-<h3>Click on the icons to reach me out!!</h3> 
+<h4>Want to connect🤝!! Just click on the icons👇 to catch me out!!</h4> 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammed-nihal-kv-mn13">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="57" alt="linkedin logo"  />
@@ -19,6 +19,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+<h3> <a href="https://wa.me/+918129765764"> "Or click here to reach me on WhatsApp!!"  
+    <img src="https://th.bing.com/th/id/OIP.hbr47SG8Nl1CUsQBVLhz_AHaHa?rs=1&pid=ImgDetMain" height="30" width="30"/>
+  </a></h3>
 
 ###
 
