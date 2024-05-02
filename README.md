@@ -21,7 +21,6 @@
 </div>
 
 <h3> <a href="https://wa.me/+918129765764"> -> Or click here to reach me on WhatsApp🪀!! </a></h3>
-<h4>📱 +91 8129765764 </h4>
 
 ###
 
