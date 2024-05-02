@@ -1,7 +1,7 @@
 <h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal 🧑‍💻 </h2>
 
 ###
-<h4>Want to connect🤝!! Just click on the icons👇 to catch me out!!</h4> 
+<h4>Want to connect🤝!! Just click on the icons to catch me out!!👇</h4> 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammed-nihal-kv-mn13">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="57" alt="linkedin logo"  />
@@ -21,7 +21,7 @@
 </div>
 
 <h3> <a href="https://wa.me/+918129765764"> -> Or click here to reach me on WhatsApp🪀!! </a></h3>
-<h5>📱 +91 8129765764 </h5>
+<h4>📱 +91 8129765764 </h4>
 
 ###
 
