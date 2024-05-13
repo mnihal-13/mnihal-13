@@ -9,6 +9,9 @@
     <img width="33" />
   <a href="https://twitter.com/mnihal_13">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  /> </a>
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+
 </div>
 
 ###
@@ -22,6 +25,14 @@
 
 <h3> <a href="https://wa.me/+918129765764"> -> Or click here to reach me on WhatsApp🪀!! </a></h3>
 
+###
+<h2> Follow me on Medium  </h2>
+<div align="left" >  
+  <h4>Click the icon👇!!</h4>
+    <a  href="https://medium.com/@mn13">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="70" />
+    </a>
+</div>
 ###
 
 <br clear="both">
