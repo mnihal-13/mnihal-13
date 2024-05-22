@@ -5,7 +5,6 @@
 </p>
 
 ###
-<img align= "left "src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> 
 <h4> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Want to connect🤝!! Just click on the icons to catch me out!!👇</h4> 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammed-nihal-kv-mn13">
