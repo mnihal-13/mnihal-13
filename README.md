@@ -1,11 +1,13 @@
 <h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal 🧑‍💻 </h2>
-###
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFF&center=true&vCenter=true&random=false&width=600&lines=Aspiring Data Scientist!!;Chemist⚗️ Turned InTo Data Science⚙️;Passionate About Innovations⚒️;Eager To Learn New Technologies!!" alt="Typing SVG" /></a>
 </p>
 
 ###
-<h4> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Want to connect🤝!! Just click on the icons to catch me out!!👇</h4> 
+<div align="left">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> </div>
+<h4>  Want to connect🤝!! Just click on the icons to catch me out!!👇</h4> 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammed-nihal-kv-mn13">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="57" alt="linkedin logo"  />
