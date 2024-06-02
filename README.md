@@ -123,7 +123,7 @@
 
 ###
 
-<details><summary><h2> :open_file_folder: Click Here To Show My Projects Repositories🚨</h2></summary>
+<details><summary><h2> :open_file_folder: Click Here To Show My Project Repositories🚨</h2></summary>
 
   ----
     
