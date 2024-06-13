@@ -147,6 +147,9 @@
     <a href="https://github.com/mnihal-13/Image-Processing-Proj">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Image-Processing-Proj&theme=tokyonight" alt="Image Processing repo" />
         </a>
+    <a href="https://github.com/mnihal-13/Machine-Learning-Basic-Projects-">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Basic-Projects-&theme=tokyonight" alt="ML basic repo" />
+        </a>  
     </p>
   </div>
 </details>
