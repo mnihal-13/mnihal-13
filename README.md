@@ -41,7 +41,7 @@
 ###
 
 <h4>📌Check on my recent Medium Article!!</h4> 
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0" alt="Recent Article 0"> 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0" alt="Recent Article Link"> 
 
 ### 
 
