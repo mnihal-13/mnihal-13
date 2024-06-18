@@ -10,7 +10,7 @@
 
 - 👨‍💻 I'm currently learning `Web Development with Python Django as server-side`
 - :thinking: I’m currently looking for a `job opportunity` to contribute my knowledge and skill set to a dynamic team.
-- this is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).
+- This is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).
 - 🤓 Always learning new things
 - ✍🏻 For every problem there is a solution with me.
 <!--:boom: You can visit [MY WEBSITE]().-->
