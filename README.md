@@ -5,7 +5,7 @@
 
 ###
 
-<h2>About Me</h2>
+<h2>About Me👨🏼‍💻</h2>
 
 - 👨‍💻 I'm currently learning `Web Development with Python Django as server-side`
 - :thinking: I’m currently looking for a `job opportunity` to contribute my knowledge and skill set to a dynamic team <!-- this is [MY RESUME](). -->
