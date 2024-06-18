@@ -4,6 +4,17 @@
 </p>
 
 ###
+<br>
+<h2>About Me</h2>
+- 👨‍💻 I'm currently learning `Web Development with Python Django as server-side`
+- :thinking: I’m currently looking for a `job opportunity` to contribute my knowledge and skill set to a dynamic team <!-- this is [MY RESUME](). -->
+- 🤓 Always learning new things 
+- ✍🏻 For every problem there is a solution with me.
+- <!--:boom: You can visit [MY WEBSITE]().-->
+
+<br>
+
+###
 
 <h4>  Want to connect🤝!! Just click on the icons to catch me out!!👇 </h4> 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="12%">
