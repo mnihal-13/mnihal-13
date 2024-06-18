@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFF&center=true&vCenter=true&random=false&width=600&lines=Enthusiastic Developer And Data Scientist!!;Always Learning And Building⛓️;Chemist⚗️ Turned InTo Code⚙️;Passionate About Innovations⚒️;Eager To Learn New Technologies!!" alt="Typing SVG" /></a>
 </p>
-
+<br>
 ###
 
 <h2>About Me👨🏼‍💻</h2>
@@ -72,12 +72,6 @@
 
 ###
 
-<div align="center">
-  <img height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
   <img width="20" />
@@ -120,9 +114,15 @@
 
 ###
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/mnihal-13/count.svg?"  />
+<div align="center">
+  <img height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
 </div>
+
+###
+
+<!--<div align="right">
+  <img src="https://profile-counter.glitch.me/mnihal-13/count.svg?"  />
+</div>-->
 
 ###
 
