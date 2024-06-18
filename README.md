@@ -4,7 +4,7 @@
 </p>
 
 ###
-<br>
+
 <h2>About Me</h2>
 
 - 👨‍💻 I'm currently learning `Web Development with Python Django as server-side`
@@ -12,10 +12,6 @@
 - 🤓 Always learning new things
 - ✍🏻 For every problem there is a solution with me.
 <!--:boom: You can visit [MY WEBSITE]().-->
-
-
-
-<br>
 
 ###
 
