@@ -1,4 +1,4 @@
-<h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal <img height="35" width="35" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" > </h2>
+x<h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal <img height="35" width="35" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" > </h2>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFF&center=true&vCenter=true&random=false&width=600&lines=Enthusiastic Developer And Data Scientist!!;Always Learning And Building⛓️;Chemist⚗️ Turned InTo Code⚙️;Passionate About Innovations⚒️;Eager To Learn New Technologies!!" alt="Typing SVG" /></a>
 </p>
@@ -79,6 +79,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mnihal-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnihal-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/SamwitAdhikary" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamwitAdhikary&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 </div>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnihal-13&theme=tokyonight" alt="mnihal-13" /></p>
 
