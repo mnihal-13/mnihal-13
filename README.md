@@ -9,8 +9,8 @@ x<h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoj
 <h2>About Me👨🏼‍💻</h2>
 
 - 👨‍💻 I'm currently learning `Web Development with Python Django as server-side`
-- :thinking: I’m currently looking for a `job opportunity` to contribute my knowledge and skill set to a dynamic team.
-- 📄 This is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).
+- :thinking: I’m currently looking for a `job opportunity` to contribute my knowledge and skill's to a dynamic team.
+<!--- 📄 This is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).-->
 - 🤓 Always learning new things
 - ✍🏻 For every problem there is a solution with me.
 <!--:boom: You can visit [MY WEBSITE]().-->
@@ -159,6 +159,10 @@ x<h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoj
     <a href="https://github.com/mnihal-13/Python-Mini-Projects">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Python-Mini-Projects&theme=tokyonight" alt="Python repo" />
         </a>  
+      <a href="https://github.com/mnihal-13/Front-End-Sample-Projects">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Front-End-Sample-Projects&theme=tokyonight" alt="Front-end repo" />
+        </a>  
+      https://github.com/mnihal-13/Front-End-Sample-Projects
     <a href="https://github.com/mnihal-13/Machine-Learninghttps://github.com/mnihal-13/Machine-Learning">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning&theme=tokyonight" alt="ML repo" />
       </a>
