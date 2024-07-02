@@ -162,7 +162,6 @@ x<h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoj
       <a href="https://github.com/mnihal-13/Front-End-Sample-Projects">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Front-End-Sample-Projects&theme=tokyonight" alt="Front-end repo" />
         </a>  
-      https://github.com/mnihal-13/Front-End-Sample-Projects
     <a href="https://github.com/mnihal-13/Machine-Learninghttps://github.com/mnihal-13/Machine-Learning">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning&theme=tokyonight" alt="ML repo" />
       </a>
