@@ -83,7 +83,7 @@
 </div>
 
 
-<p align="centre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnihal-13&theme=tokyonight" alt="mnihal-13" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnihal-13&theme=tokyonight" alt="mnihal-13" /></p>
 
 ###
 
