@@ -76,7 +76,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mnihal-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <!--   <a href="https://github.com/mnihal-13" style=justify-content: flex-end;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnihal-13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnihal-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
