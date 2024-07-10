@@ -136,13 +136,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="48" alt="eclipseide logo"  />
-  <img align='right' height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
 </div>
 
 ###
 
 <div align="right">
-  
+    <img height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
 </div>
 
 ###
