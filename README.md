@@ -15,7 +15,7 @@
 <!--:boom: You can visit [MY WEBSITE]().-->
 <!--- 📄 This is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).-->
 <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mnihal-13.mnihal-13&left_color=indigo&left_text=Who's%20There"  />
+  <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=mnihal-13.mnihal-13&left_color=indigo&left_text=Who's%20There"  />
 
 
 ###
