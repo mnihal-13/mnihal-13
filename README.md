@@ -15,7 +15,8 @@
 <!--:boom: You can visit [MY WEBSITE]().-->
 <!--- 📄 This is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).-->
 <br>
-  <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=mnihal-13.mnihal-13&left_color=indigo&left_text=Who's%20There"  />
+<img align='right' height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
+<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=mnihal-13.mnihal-13&left_color=indigo&left_text=Who's%20There"  />
 
 
 ###
@@ -139,7 +140,6 @@
 ###
 
 <div align="right">
-  <img height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
 </div>
 
 ###
@@ -150,8 +150,6 @@
 
 ###
 
-<div align="right">
-</div>
 
 ###
 
