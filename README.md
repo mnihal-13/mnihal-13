@@ -8,7 +8,7 @@
 
 <h2>About Me👨🏼‍💻</h2>
 
-- 👨‍💻 I'm currently learning `Web Development with Python Django as server-side`
+- 👨‍💻 I'm currently working as `Python Full Stack Developer` at [Dexpro Innovations Pvt Ltd](https://www.linkedin.com/company/dexpro-innovations/mycompany).
 - :thinking: I’m currently looking for a `job opportunity` to contribute my knowledge and skill's to a dynamic team.
 - 🤓 Always learning new things
 - ✍🏻 For every problem there is a solution with me.
