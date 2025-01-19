@@ -9,7 +9,7 @@
 <h2>About Me👨🏼‍💻</h2>
 
 - 👨‍💻 I'm a `Growth Engineer` <b>@[Brin'IT](https://brinit.in).</b>
-- :thinking: I’m currently looking for a `job opportunity` to contribute my knowledge and skill's to a dynamic team.
+<!-- - :thinking: I’m currently looking for a `job opportunity` to contribute my knowledge and skill's to a dynamic team.-->
 - 🤓 Always learning new things
 - ✍🏻 For every problem there is a solution with me.
 <!--:boom: You can visit [MY WEBSITE]().-->
