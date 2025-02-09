@@ -153,9 +153,9 @@
 ###
 
 
-###
 
-<details><summary><h2> :open_file_folder: Click Here To Show My Project Repositories🚨</h2></summary>
+
+<details><summary><h2> :open_file_folder: Click Here To Show My Python/Data-Science Repositories🚨</h2></summary>
 
   ----
     
@@ -164,28 +164,42 @@
     <a href="https://github.com/mnihal-13/Python-Mini-Projects">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Python-Mini-Projects&theme=tokyonight" alt="Python repo" />
         </a>  
-    <a href="https://github.com/mnihal-13/Machine-Learninghttps://github.com/mnihal-13/Machine-Learning">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning&theme=tokyonight" alt="ML repo" />
+    <a href="https://github.com/mnihal-13/Machine-Learning-Projects">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Projects&theme=tokyonight" alt="ML repo" />
       </a>
-    <a href="https://github.com/mnihal-13/Deep-Learning">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Deep-Learning&theme=tokyonight" alt="Deep Learning repo" />
+    <a href="https://github.com/mnihal-13/Deep-Learning-Projects">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Deep-Learning-Projects&theme=tokyonight" alt="Deep Learning repo" />
         </a>
     <a href="https://github.com/mnihal-13/Exploratory-Data-Analysis">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Exploratory-Data-Analysis&theme=tokyonight" alt="Data Analysis repo" />
         </a>
-    <a href="https://github.com/mnihal-13/NLP">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=NLP&theme=tokyonight" alt="NLP repo" />
+    <a href="https://github.com/mnihal-13/NLP-Projects">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=NLP-Projects&theme=tokyonight" alt="NLP repo" />
         </a>
-    <a href="https://github.com/mnihal-13/Image-Processing-Proj">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Image-Processing-Proj&theme=tokyonight" alt="Image Processing repo" />
+    <a href="https://github.com/mnihal-13/Image-Processing-Projects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Image-Processing-Projects&theme=tokyonight" alt="Image Processing repo" />
         </a>
     <a href="https://github.com/mnihal-13/Machine-Learning-Basic-Projects-">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Basic-Projects-&theme=tokyonight" alt="ML basic repo" />
         </a>  
-    <a href="https://github.com/mnihal-13/Front-End-Sample-Projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Front-End-Sample-Projects&theme=tokyonight" alt="Front-end repo" />
-      </a>  
     </p>
   </div>
 </details>
+
+###
+
+<details><summary><h2> :open_file_folder: Click Here To Show My Web Development Repositories🚨</h2></summary>
+
+  ----
+    
+  <div>
+    <p align="center">
+    <a href="https://github.com/mnihal-13/E-Commerce-Django">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=E-Commerce-Django&theme=tokyonight" alt="Django repo" />
+      </a>
+    <a href="https://github.com/mnihal-13/Front-End-Sample-Projects">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Front-End-Sample-Projects&theme=tokyonight" alt="Front-end repo" />
+        </a>  
+    </div>
+  </details>
   
