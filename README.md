@@ -14,7 +14,7 @@
 - 👨‍💻 I'm a `Growth Engineer` <b>@[Brin'IT](https://brinit.in).</b>
 - 👨🏼‍💼 `Co-Founder` <b>@[Brillowelle](https://brillowelle.com).</b>
 - 🤓 Always learning new things
-- ✍🏻 For every problem there is a solution with me.
+- ✍🏻 Need a solution? You are in the right place, Connect with me!
 <!--:boom: You can visit [MY WEBSITE]().-->
 <!--- 📄 This is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).-->
 <br>
