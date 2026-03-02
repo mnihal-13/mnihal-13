@@ -11,7 +11,7 @@
 
 <h2>About Me👨🏼‍💻</h2>
 
-- 👨‍💻 I'm a `Growth Engineer` <b>@[Brin'IT](https://prception.in).</b>
+- 👨‍💻 I'm a `Growth Engineer` <b>@[PRception](https://prception.in).</b>
 - 👨🏼‍💼 `Co-Founder` <b>@[Brillowelle](https://brillowelle.com).</b>
 - 🤓 Always learning new things
 - ✍🏻 Need a solution? You are in the right place, Connect with me!
