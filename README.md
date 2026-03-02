@@ -12,7 +12,7 @@
 <h2>About Me👨🏼‍💻</h2>
 
 - 👨🏼‍💼 `Co-Founder` <b>@[Brillowelle](https://brillowelle.com).</b>
-- 👨‍💻 I'm a `Software Developer` <b>@[PRception](https://prception.in).</b>
+- 👨‍💻 `Software Developer` <b>@[PRception](https://prception.in).</b>
 - 🤓 Always learning new things
 - ✍🏻 Need a solution? You are in the right place, Connect with me!
 <!--:boom: You can visit [MY WEBSITE]().-->
