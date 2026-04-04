@@ -59,7 +59,7 @@
   </a>
 </div>
 
-<h3> <a href="https://wa.me/+918129765764"> -> Or click here to reach me on WhatsApp🪀!! </a></h3>
+<h3> <a href="https://wa.me/+918921479100"> -> Or click here to reach me on WhatsApp🪀!! </a></h3>
 
 
 ###
