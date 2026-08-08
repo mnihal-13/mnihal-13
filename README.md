@@ -162,7 +162,7 @@
 
 
 
-<details><summary><h2> :open_file_folder: Click Here To Show My Python/Data-Science Repositories🚨</h2></summary>
+<!-- <details><summary><h2> :open_file_folder: Click Here To Show My Python/Data-Science Repositories🚨</h2></summary>
 
   ----
     
@@ -209,4 +209,4 @@
         </a>  
     </div>
   </details>
-  
+   -->
