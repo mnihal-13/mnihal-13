@@ -1,224 +1,212 @@
-<div align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Mohammed+Nihal;Enthusiastic+Developer+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Chemist+%E2%9A%97%EF%B8%8F+Turned+Into+Code+%E2%9A%99%EF%B8%8F;Passionate+About+Innovations+%E2%9A%92%EF%B8%8F" alt="Typing Header" />
-  </h1>
+<h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal <img height="35" width="35" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" > </h2>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&background=1819FF00&width=435&lines=Enthusiastic+Developer%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Always+Learning+And+Building%E2%9B%93%EF%B8%8F;Chemist%E2%9A%97%EF%B8%8F+Turned+InTo+Code%E2%9A%99%EF%B8%8F;Passionate+About+Innovations%E2%9A%92%EF%B8%8F;Eager+To+Learn+New+Technologies!!" alt="Typing SVG" /></a>
+<!--     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&color=FFFFF&center=true&vCenter=true&random=false&width=600&lines=Enthusiastic Developer And Data Scientist👨🏼‍💻;Always Learning And Building⛓️;Chemist⚗️ Turned InTo Code⚙️;Passionate About Innovations⚒️;Eager To Learn New Technologies!!" alt="Typing SVG" /></a> -->
+<!--     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=5000&pause=1000&background=1819FF00&width=435&lines=Enthusiastic+Developer+And+Data+Scientist!!;Always+Learning+And+Building%E2%9B%93%EF%B8%8F;Chemist%E2%9A%97%EF%B8%8F+Turned+InTo+Code%E2%9A%99%EF%B8%8F;Passionate+About+Innovations%E2%9A%92%EF%B8%8F;Eager+To+Learn+New+Technologies!!" alt="Typing SVG" /></a> -->
+</p>
 
-  <p align="center">
-    <a href="https://brillowelle.com"><img src="https://img.shields.io/badge/Co--Founder-Brillowelle-7aa2f7?style=for-the-badge&logo=rocket&logoColor=white" alt="Brillowelle" /></a>
-    &nbsp;
-    <a href="https://prception.in"><img src="https://img.shields.io/badge/Software_Developer-PRception-bb9af7?style=for-the-badge&logo=codeforces&logoColor=white" alt="PRception" /></a>
-    &nbsp;
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=mnihal-13.mnihal-13&left_color=1a1b26&right_color=7aa2f7&left_text=Profile%20Views" alt="Visitor Counter" />
-  </p>
+<br>
+
+###
+
+<h2>About Me👨🏼‍💻</h2>
+
+- 👨🏼‍💼 `Co-Founder` <b>@[Brillowelle](https://brillowelle.com).</b>
+- 👨‍💻 `Software Developer` <b>@[PRception](https://prception.in).</b>
+- 🤓 Always learning new things
+- ✍🏻 Need a solution? You are in the right place, Connect with me!
+<!--:boom: You can visit [MY WEBSITE]().-->
+<!--- 📄 This is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).-->
+<br>
+  <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=mnihal-13.mnihal-13&left_color=indigo&left_text=Who's%20There"  />
+
+
+
+
+###
+
+<h2>My Competitive Programming Profiles <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=7%> </h2>  
+  
+<div align="left" width=100%>
+  <a href="https://leetcode.com/u/MN_13/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"alt="LeetCode"width=%6/ </a> 
+    &emsp;
+    <a href="https://www.codewars.com/users/MN_13"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/></a>  
+</div>
+<br>
+<hr>
+
+
+###
+
+<h4>  Want to connect🤝!! Just click on the icons to catch me out!!👇 </h4> 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="12%">
+<div align="left">
+  <a href="https://www.linkedin.com/in/m-nihal13">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="57" alt="linkedin logo"  />
+  </a>
+    <img width="33" />
+  <a href="https://twitter.com/mnihal_13">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  /> </a>
+
 </div>
 
-<br>
+###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section Divider" />
 
-<br>
-
-<h2>👨‍💻 &nbsp; About Me</h2>
-
-```javascript
-const mohammedNihal = {
-  code: ["Python", "JavaScript", "Django", "Machine Learning", "Deep Learning"],
-  roles: {
-    coFounder: "Brillowelle (https://brillowelle.com)",
-    softwareDev: "PRception (https://prception.in)"
-  },
-  background: "Chemist 🧪 ➔ Software Developer & Data Scientist 💻",
-  interests: ["Artificial Intelligence", "Data Engineering", "Web Architecture", "Competitive Programming"],
-  currentGoal: "Building innovative AI & Web solutions that solve real-world problems 🚀"
-};
-```
-
-- 👨‍💼 **Co-Founder** at [Brillowelle](https://brillowelle.com)
-- 👨‍💻 **Software Developer** at [PRception](https://prception.in)
-- ⚗️ **Chemist Turned Developer**: Bridging analytical science with modern software & AI algorithms
-- 🤓 **Always Learning**: Passionate about Data Science, Machine Learning, and Web Architecture
-- ✍️ **Need a Solution?**: Feel free to connect and collaborate with me!
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section Divider" />
-
-<br>
-
-<h2>🛠 &nbsp; Tech Stack & Tools</h2>
-
-### 💻 Languages & Web Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,c,wordpress,woocommerce" alt="Languages and Web" />
+<div align="left">
+  <a href="mailto:mnkv1013@gmail.com" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</p>
-
-### 🤖 AI, Machine Learning & Data Science
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow,pytorch,opencv,kaggle" alt="AI, ML and Data Science" />
-  </a>
-</p>
-
-### 🔧 IDEs & Developer Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,eclipse" alt="Developer Tools" />
-  </a>
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section Divider" />
-
-<br>
-
-<h2>📊 &nbsp; GitHub Statistics</h2>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mnihal-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="165" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnihal-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="165" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnihal-13&theme=tokyonight" alt="Streak Stats" />
 </div>
 
-<br>
+<h3> <a href="https://wa.me/+918921479100"> -> Or click here to reach me on WhatsApp🪀!! </a></h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section Divider" />
 
-<br>
+###
 
-<h2>🏆 &nbsp; Competitive Programming</h2>
+<h2> Follow me on Medium  </h2>
+<div align="left" >  
+  <h4>Click the icon👇!!</h4>
+    <a  href="https://medium.com/@mn13"> 
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="70" />
+    </a>
+</div>
 
-<p align="left">
-  <a href="https://leetcode.com/u/MN_13/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codewars.com/users/MN_13" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
-  </a>
-</p>
+###
 
-<br>
+<h4>📌Check on my recent Medium Article!!</h4> 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0" alt="Recent Article Link"> </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section Divider" />
+### 
 
-<br>
+<h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats </h2>
 
-<h2>📝 &nbsp; Medium & Articles</h2>
+<br clear="both">
 
-<p align="left">
-  <a href="https://medium.com/@mn13" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mnihal-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<!--   <a href="https://github.com/mnihal-13" style=justify-content: flex-end;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnihal-13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnihal-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnihal-13&theme=tokyonight" alt="mnihal-13" /></p>
+</div>
 
-<br>
 
-<h4>📌 &nbsp; Recent Medium Article</h4>
-<p align="left">
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0" target="_blank">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0" alt="Recent Medium Article" />
-  </a>
-</p>
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section Divider" />
+###
 
-<br>
+<img src="https://raw.githubusercontent.com/mnihal-13/mnihal-13/output/snake.svg" alt="Snake animation" />
 
-<h2>📂 &nbsp; Featured Repositories</h2>
+###
 
-<details>
-  <summary><b>🐍 Click to expand Python & Data Science Repositories</b></summary>
-  <br>
-  <div align="center">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=django" height="48" alt="django logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="48" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="48" alt="vscode logo"  />
+</div>
+
+### 
+
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="tensorflow logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="pytorch logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="opencv logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="kaggle logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="48" alt="pycharm logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="48" alt="eclipseide logo"  />
+</div>
+
+###
+
+<div align="right">
+    <img height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
+</div>
+
+###
+
+<!--<div align="right">
+  <img src="https://profile-counter.glitch.me/mnihal-13/count.svg?"  />
+</div>-->
+
+###
+
+
+
+
+<details><summary><h2> :open_file_folder: Click Here To Show My Python/Data-Science Repositories🚨</h2></summary>
+
+  ----
+    
+  <div>
+    <p align="center">
     <a href="https://github.com/mnihal-13/Python-Mini-Projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Python-Mini-Projects&theme=tokyonight" alt="Python Mini Projects" />
-    </a>
-    &nbsp;
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Python-Mini-Projects&theme=tokyonight" alt="Python repo" />
+        </a>  
     <a href="https://github.com/mnihal-13/Machine-Learning-Projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Projects&theme=tokyonight" alt="Machine Learning Projects" />
-    </a>
-    <br><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Projects&theme=tokyonight" alt="ML repo" />
+      </a>
     <a href="https://github.com/mnihal-13/Deep-Learning-Projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Deep-Learning-Projects&theme=tokyonight" alt="Deep Learning Projects" />
-    </a>
-    &nbsp;
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Deep-Learning-Projects&theme=tokyonight" alt="Deep Learning repo" />
+        </a>
     <a href="https://github.com/mnihal-13/Exploratory-Data-Analysis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Exploratory-Data-Analysis&theme=tokyonight" alt="Exploratory Data Analysis" />
-    </a>
-    <br><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Exploratory-Data-Analysis&theme=tokyonight" alt="Data Analysis repo" />
+        </a>
     <a href="https://github.com/mnihal-13/NLP-Projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=NLP-Projects&theme=tokyonight" alt="NLP Projects" />
-    </a>
-    &nbsp;
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=NLP-Projects&theme=tokyonight" alt="NLP repo" />
+        </a>
     <a href="https://github.com/mnihal-13/Image-Processing-Projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Image-Processing-Projects&theme=tokyonight" alt="Image Processing Projects" />
-    </a>
-    <br><br>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Image-Processing-Projects&theme=tokyonight" alt="Image Processing repo" />
+        </a>
     <a href="https://github.com/mnihal-13/Machine-Learning-Basic-Projects-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Basic-Projects-&theme=tokyonight" alt="ML Basic Projects" />
-    </a>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Basic-Projects-&theme=tokyonight" alt="ML basic repo" />
+        </a>  
+    </p>
   </div>
 </details>
 
-<br>
+###
 
-<details>
-  <summary><b>🌐 Click to expand Web Development Repositories</b></summary>
-  <br>
-  <div align="center">
+<details><summary><h2> :open_file_folder: Click Here To Show My Web Development Repositories🚨</h2></summary>
+
+  ----
+    
+  <div>
+    <p align="center">
     <a href="https://github.com/mnihal-13/E-Commerce-Django">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=E-Commerce-Django&theme=tokyonight" alt="E-Commerce Django" />
-    </a>
-    &nbsp;
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=E-Commerce-Django&theme=tokyonight" alt="Django repo" />
+      </a>
     <a href="https://github.com/mnihal-13/Front-End-Sample-Projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Front-End-Sample-Projects&theme=tokyonight" alt="Front-End Sample Projects" />
-    </a>
-  </div>
-</details>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section Divider" />
-
-<br>
-
-<h2>🤝 &nbsp; Connect With Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/m-nihal13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/mnihal_13" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mnkv1013@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/+918921479100" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mnihal-13/mnihal-13/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Front-End-Sample-Projects&theme=tokyonight" alt="Front-end repo" />
+        </a>  
+    </div>
+  </details>
+  
