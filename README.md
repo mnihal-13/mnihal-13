@@ -1,13 +1,6 @@
-<!-- ================================================================= -->
-<!-- MOHAMMED NIHAL | GITHUB PROFILE README                            -->
-<!-- Software Developer · Web Architecture, AI & Scalable Systems     -->
-<!-- Canvas: #0D1117 | Accent: #38BDF8 (Electric Cyan)                -->
-<!-- Interactive Assets: Cool-GIFs-For-GitHub                         -->
-<!-- ================================================================= -->
-
 <div align="center">
 
-  <!-- HERO WORKSTATION VISUAL (Cool-GIFs-For-GitHub) -->
+  <!-- HERO WORKSTATION VISUAL  -->
   <a href="https://github.com/mnihal-13">
     <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Mohammed Nihal - Developer Workstation" width="340" style="border-radius: 14px; border: 1px solid #30363D;" />
   </a>
@@ -54,13 +47,13 @@
 
 </div>
 
-<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<!-- NEON LASER DIVIDER  -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================= -->
-<!-- TECHNICAL ARSENAL (UNCATEGORIZED, SHOPIFY & ANTIGRAVITY INTEGRATED)-->
+<!-- TECHNICAL STACK-->
 <!-- ================================================================= -->
 <div align="center">
 
@@ -80,19 +73,19 @@
     </a>
   </p>
 
-  <!-- ROW 3: DEVOPS, TOOLCHAIN & PLATFORMS (12 ICONS: 10 + SHOPIFY + ANTIGRAVITY) -->
+  <!-- ROW 3: DEVOPS, TOOLCHAIN & PLATFORMS -->
   <p align="center" style="margin: 0;">
     <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=opencv,sklearn,docker,linux,git,github,githubactions,postman,vscode,pycharm&theme=dark" valign="middle" style="vertical-align: middle;" alt="DevOps &amp; Tools" /></a>&nbsp;<a href="https://www.shopify.com" target="_blank"><img src="shopify.svg" width="48" height="48" valign="middle" style="vertical-align: middle;" alt="Shopify" /></a>&nbsp;<a href="https://github.com/mnihal-13" target="_blank"><img src="antigravity.svg" width="48" height="48" valign="middle" style="vertical-align: middle;" alt="Google Antigravity IDE" /></a>
   </p>
 </div>
 
-<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<!-- NEON LASER DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================= -->
-<!-- OFFICIAL GITHUB ACHIEVEMENTS (IMMEDIATELY AFTER TECH STACK)       -->
+<!-- OFFICIAL GITHUB ACHIEVEMENTS  -->
 <!-- ================================================================= -->
 <div align="center">
 
@@ -126,7 +119,7 @@
 
 </div>
 
-<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<!-- NEON LASER DIVIDER  -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
 </div>
@@ -193,7 +186,7 @@
 <!-- ================================================================= -->
 <!-- PROBLEM SOLVING & COMPETITIVE PROGRAMMING                         -->
 <!-- ================================================================= -->
-<div align="center">
+<!-- <div align="center">
 
   <h3><img src="https://api.iconify.design/lucide/cpu.svg?color=%2338bdf8" width="20" height="20" valign="middle" alt="Algorithms" /> Problem Solving &amp; Algorithmic Grit</h3>
 
@@ -219,9 +212,9 @@
     </tr>
   </table>
 
-</div>
+</div> -->
 
-<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<!-- NEON LASER DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
 </div>
@@ -266,7 +259,7 @@
   <img src="https://raw.githubusercontent.com/mnihal-13/mnihal-13/output/snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 
-<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<!-- NEON LASER DIVIDER  -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
 </div>
