@@ -1,212 +1,310 @@
-<h2 align="left">Hey Folks!! <img height="25" width="25" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"  /> I'm Mohammed Nihal <img height="35" width="35" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" > </h2>
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&background=1819FF00&width=435&lines=Enthusiastic+Developer%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Always+Learning+And+Building%E2%9B%93%EF%B8%8F;Chemist%E2%9A%97%EF%B8%8F+Turned+InTo+Code%E2%9A%99%EF%B8%8F;Passionate+About+Innovations%E2%9A%92%EF%B8%8F;Eager+To+Learn+New+Technologies!!" alt="Typing SVG" /></a>
-<!--     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&color=FFFFF&center=true&vCenter=true&random=false&width=600&lines=Enthusiastic Developer And Data Scientist👨🏼‍💻;Always Learning And Building⛓️;Chemist⚗️ Turned InTo Code⚙️;Passionate About Innovations⚒️;Eager To Learn New Technologies!!" alt="Typing SVG" /></a> -->
-<!--     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=5000&pause=1000&background=1819FF00&width=435&lines=Enthusiastic+Developer+And+Data+Scientist!!;Always+Learning+And+Building%E2%9B%93%EF%B8%8F;Chemist%E2%9A%97%EF%B8%8F+Turned+InTo+Code%E2%9A%99%EF%B8%8F;Passionate+About+Innovations%E2%9A%92%EF%B8%8F;Eager+To+Learn+New+Technologies!!" alt="Typing SVG" /></a> -->
-</p>
-
-<br>
-
-###
-
-<h2>About Me👨🏼‍💻</h2>
-
-- 👨🏼‍💼 `Co-Founder` <b>@[Brillowelle](https://brillowelle.com).</b>
-- 👨‍💻 `Software Developer` <b>@[PRception](https://prception.in).</b>
-- 🤓 Always learning new things
-- ✍🏻 Need a solution? You are in the right place, Connect with me!
-<!--:boom: You can visit [MY WEBSITE]().-->
-<!--- 📄 This is [MY RESUME](https://github.com/mnihal-13/mnihal-13/blob/main/Mohammed%20Nihal_CV.pdf).-->
-<br>
-  <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=mnihal-13.mnihal-13&left_color=indigo&left_text=Who's%20There"  />
-
-
-
-
-###
-
-<h2>My Competitive Programming Profiles <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=7%> </h2>  
-  
-<div align="left" width=100%>
-  <a href="https://leetcode.com/u/MN_13/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"alt="LeetCode"width=%6/ </a> 
-    &emsp;
-    <a href="https://www.codewars.com/users/MN_13"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/></a>  
-</div>
-<br>
-<hr>
-
-
-###
-
-<h4>  Want to connect🤝!! Just click on the icons to catch me out!!👇 </h4> 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="12%">
-<div align="left">
-  <a href="https://www.linkedin.com/in/m-nihal13">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="57" alt="linkedin logo"  />
-  </a>
-    <img width="33" />
-  <a href="https://twitter.com/mnihal_13">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="57" alt="twitter logo"  /> </a>
-
-</div>
-
-###
-
-
-<div align="left">
-  <a href="mailto:mnkv1013@gmail.com" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-<h3> <a href="https://wa.me/+918921479100"> -> Or click here to reach me on WhatsApp🪀!! </a></h3>
-
-
-###
-
-<h2> Follow me on Medium  </h2>
-<div align="left" >  
-  <h4>Click the icon👇!!</h4>
-    <a  href="https://medium.com/@mn13"> 
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="70" />
-    </a>
-</div>
-
-###
-
-<h4>📌Check on my recent Medium Article!!</h4> 
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0" alt="Recent Article Link"> </a>
-
-### 
-
-<h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats </h2>
-
-<br clear="both">
+<!-- ================================================================= -->
+<!-- MOHAMMED NIHAL | GITHUB PROFILE README                            -->
+<!-- Software Developer · Web Architecture, AI & Scalable Systems     -->
+<!-- Canvas: #0D1117 | Accent: #38BDF8 (Electric Cyan)                -->
+<!-- Interactive Assets: Cool-GIFs-For-GitHub                         -->
+<!-- ================================================================= -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnihal-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<!--   <a href="https://github.com/mnihal-13" style=justify-content: flex-end;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnihal-13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=dracula&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnihal-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnihal-13&theme=tokyonight" alt="mnihal-13" /></p>
+
+  <!-- HERO WORKSTATION VISUAL (Cool-GIFs-For-GitHub) -->
+  <a href="https://github.com/mnihal-13">
+    <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Mohammed Nihal - Developer Workstation" width="340" style="border-radius: 14px; border: 1px solid #30363D;" />
+  </a>
+
+  <br/><br/>
+
+  <!-- DYNAMIC TYPING BANNER -->
+  <a href="https://github.com/mnihal-13">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1100&color=38BDF8&background=0D111700&center=true&vCenter=true&width=720&height=70&lines=MOHAMMED+NIHAL;Full-Stack+Web+%C2%B7+AI+%26+Automation;Building+Scalable+Products+%26+Systems;From+Chemistry+Lab+%E2%86%92+Production+Code" alt="Mohammed Nihal" />
+  </a>
+
+  <!-- REFINED TWO-TONE METADATA PILLS -->
+  <p align="center">
+    <a href="https://github.com/mnihal-13"><img src="https://img.shields.io/badge/Role-Software%20Developer%20%40%20PRception-0D1117?style=flat&logo=codefactor&logoColor=38BDF8&labelColor=161B22" alt="Role" /></a>&nbsp;
+    <a href="https://brillowelle.com" target="_blank"><img src="https://img.shields.io/badge/Co--Founder-%40%20Brillowelle-0D1117?style=flat&logo=target&logoColor=38BDF8&labelColor=161B22" alt="Brillowelle" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-0D1117?style=flat&logo=googlemaps&logoColor=38BDF8&labelColor=161B22" alt="Location" />&nbsp;
+    <a href="https://github.com/mnihal-13"><img src="https://komarev.com/ghpvc/?username=mnihal-13&label=VIEWS&color=0284c7&style=flat" alt="Views" /></a>
+  </p>
+
+  <!-- MODERN DEVELOPER BIO CARD -->
+  <table border="0" cellpadding="0" cellspacing="0" width="88%" style="max-width: 760px; margin: 16px auto; border: 1px solid #30363d; border-radius: 12px; background-color: #161b22; box-shadow: 0 4px 20px rgba(0,0,0,0.35);">
+    <tr>
+      <td align="center" style="padding: 18px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14.5px; line-height: 1.85; color: #c9d1d9;">
+        <p style="margin: 0 0 6px 0;">
+          <img src="https://api.iconify.design/lucide/code-2.svg?color=%2338bdf8" width="18" height="18" valign="middle" alt="Code" /> <b style="color: #ffffff;">Full-Stack Software Developer</b> engineering responsive web applications, robust backend architectures, and AI-driven automation workflows.
+        </p>
+        <p style="margin: 0; color: #8b949e; font-size: 13.5px;">
+          <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Chemistry" /> Academic roots in <b style="color: #c9d1d9;">Chemistry &amp; Applied AI</b> — applying scientific first principles, precision, and architectural discipline to production software.
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- REFINED CONNECT BAR -->
+  <p align="center" style="margin-top: 14px;">
+    <a href="https://www.linkedin.com/in/m-nihal13" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://twitter.com/mnihal_13" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+    <a href="mailto:mnkv1013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+    <a href="https://wa.me/+918921479100" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>&nbsp;
+    <a href="https://medium.com/@mn13" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+    <a href="https://leetcode.com/u/MN_13/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
+    <a href="https://www.codewars.com/users/MN_13" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars" /></a>
+  </p>
+
 </div>
 
-
-
-
-###
-
-<img src="https://raw.githubusercontent.com/mnihal-13/mnihal-13/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=django" height="48" alt="django logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="48" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="48" alt="vscode logo"  />
+<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
 </div>
 
-### 
+<!-- ================================================================= -->
+<!-- TECHNICAL ARSENAL (UNCATEGORIZED, SHOPIFY & ANTIGRAVITY INTEGRATED)-->
+<!-- ================================================================= -->
+<div align="center">
 
-<div align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="tensorflow logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="pytorch logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="opencv logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="kaggle logo"  />
+  <h3><img src="https://api.iconify.design/lucide/wrench.svg?color=%2338bdf8" width="20" height="20" valign="middle" alt="Arsenal" /> Technical Arsenal &amp; Ecosystem</h3>
+
+  <!-- ROW 1: CORE LANGUAGES & FRAMEWORKS (12 ICONS) -->
+  <p align="center" style="margin: 0 0 8px 0;">
+    <a href="https://skillicons.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,bash,django,fastapi,flask,react&theme=dark" alt="Core Languages &amp; Frameworks" />
+    </a>
+  </p>
+
+  <!-- ROW 2: FULL-STACK, DATABASES & AI/ML (12 ICONS) -->
+  <p align="center" style="margin: 0 0 8px 0;">
+    <a href="https://skillicons.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,bootstrap,postgres,mysql,sqlite,mongodb,redis,wordpress,tensorflow,pytorch&theme=dark" alt="Full-Stack, Databases &amp; AI" />
+    </a>
+  </p>
+
+  <!-- ROW 3: DEVOPS, TOOLCHAIN & PLATFORMS (12 ICONS: 10 + SHOPIFY + ANTIGRAVITY) -->
+  <p align="center" style="margin: 0;">
+    <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=opencv,sklearn,docker,linux,git,github,githubactions,postman,vscode,pycharm&theme=dark" valign="middle" style="vertical-align: middle;" alt="DevOps &amp; Tools" /></a>&nbsp;<a href="https://www.shopify.com" target="_blank"><img src="shopify.svg" width="48" height="48" valign="middle" style="vertical-align: middle;" alt="Shopify" /></a>&nbsp;<a href="https://github.com/mnihal-13" target="_blank"><img src="antigravity.svg" width="48" height="48" valign="middle" style="vertical-align: middle;" alt="Google Antigravity IDE" /></a>
+  </p>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="48" alt="pycharm logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="48" alt="eclipseide logo"  />
+<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
 </div>
 
-###
+<!-- ================================================================= -->
+<!-- OFFICIAL GITHUB ACHIEVEMENTS (IMMEDIATELY AFTER TECH STACK)       -->
+<!-- ================================================================= -->
+<div align="center">
 
-<div align="right">
-    <img height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"  />
-</div>
+  <h3><img src="https://api.iconify.design/lucide/trophy.svg?color=%2338bdf8" width="20" height="20" valign="middle" alt="Achievements" /> Official GitHub Achievements</h3>
 
-###
-
-<!--<div align="right">
-  <img src="https://profile-counter.glitch.me/mnihal-13/count.svg?"  />
-</div>-->
-
-###
-
-
-
-
-<!-- <details><summary><h2> :open_file_folder: Click Here To Show My Python/Data-Science Repositories🚨</h2></summary>
-
-  ----
-    
-  <div>
-    <p align="center">
-    <a href="https://github.com/mnihal-13/Python-Mini-Projects">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Python-Mini-Projects&theme=tokyonight" alt="Python repo" />
-        </a>  
-    <a href="https://github.com/mnihal-13/Machine-Learning-Projects">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Projects&theme=tokyonight" alt="ML repo" />
-      </a>
-    <a href="https://github.com/mnihal-13/Deep-Learning-Projects">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Deep-Learning-Projects&theme=tokyonight" alt="Deep Learning repo" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="padding: 10px 24px;">
+        <a href="https://github.com/mnihal-13?achievement=pull-shark&tab=achievements" target="_blank">
+          <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="76" alt="Pull Shark x3" />
+          <br/>
+          <sub><b>Pull Shark</b> <code>x3</code></sub>
         </a>
-    <a href="https://github.com/mnihal-13/Exploratory-Data-Analysis">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Exploratory-Data-Analysis&theme=tokyonight" alt="Data Analysis repo" />
+      </td>
+      <td align="center" style="padding: 10px 24px;">
+        <a href="https://github.com/mnihal-13?achievement=quickdraw&tab=achievements" target="_blank">
+          <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="76" alt="Quickdraw" />
+          <br/>
+          <sub><b>Quickdraw</b></sub>
         </a>
-    <a href="https://github.com/mnihal-13/NLP-Projects">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=NLP-Projects&theme=tokyonight" alt="NLP repo" />
+      </td>
+      <td align="center" style="padding: 10px 24px;">
+        <a href="https://github.com/mnihal-13?achievement=yolo&tab=achievements" target="_blank">
+          <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="76" alt="YOLO" />
+          <br/>
+          <sub><b>YOLO</b></sub>
         </a>
-    <a href="https://github.com/mnihal-13/Image-Processing-Projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Image-Processing-Projects&theme=tokyonight" alt="Image Processing repo" />
-        </a>
-    <a href="https://github.com/mnihal-13/Machine-Learning-Basic-Projects-">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Machine-Learning-Basic-Projects-&theme=tokyonight" alt="ML basic repo" />
-        </a>  
-    </p>
-  </div>
-</details>
+      </td>
+    </tr>
+  </table>
 
-###
+</div>
 
-<details><summary><h2> :open_file_folder: Click Here To Show My Web Development Repositories🚨</h2></summary>
+<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
+</div>
 
-  ----
-    
-  <div>
-    <p align="center">
-    <a href="https://github.com/mnihal-13/E-Commerce-Django">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=E-Commerce-Django&theme=tokyonight" alt="Django repo" />
-      </a>
-    <a href="https://github.com/mnihal-13/Front-End-Sample-Projects">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnihal-13&repo=Front-End-Sample-Projects&theme=tokyonight" alt="Front-end repo" />
-        </a>  
-    </div>
+<!-- ================================================================= -->
+<!-- INTERACTIVE DEVELOPER TELEMETRY & SYSTEM DRAWER                   -->
+<!-- ================================================================= -->
+<div align="center">
+
+  <details>
+    <summary><b><img src="https://api.iconify.design/lucide/terminal.svg?color=%2338bdf8" width="18" height="18" valign="middle" alt="Telemetry" /> [SYSTEM TELEMETRY] Click to Toggle Developer Diagnostics &amp; Runtime Specs</b></summary>
+    <br/>
+    <table border="0" cellpadding="0" cellspacing="0" width="94%" style="max-width: 840px; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; background-color: #0d1117;">
+      <!-- Terminal macOS Title Bar -->
+      <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
+        <td style="padding: 10px 16px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; color: #8b949e;" align="left">
+          <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;<span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;<span style="color: #27c93f; font-size: 14px;">●</span>&nbsp;&nbsp;&nbsp;
+          <b style="color: #c9d1d9;">nihal@workstation: ~ (zsh) — telemetry.sh</b>
+        </td>
+      </tr>
+      <!-- Terminal Body -->
+      <tr>
+        <td style="padding: 18px 22px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; line-height: 1.85; color: #c9d1d9;" align="left">
+          <p style="margin: 0 0 12px 0;">
+            <span style="color: #58a6ff; font-weight: bold;">$</span> <span style="color: #7ee787;">nihal-cli</span> <span style="color: #79c0ff;">--status</span> <span style="color: #e3b341;">--specs</span> <span style="color: #d2a8ff;">--verbose</span>
+          </p>
+          <div style="border-left: 2px solid #30363d; padding-left: 14px; margin-left: 2px;">
+            <p style="margin: 0 0 8px 0;">
+              <span style="color: #3fb950; font-weight: bold;">[SYSTEM]</span> Status: <span style="color: #3fb950; font-weight: bold;">ONLINE <img src="https://api.iconify.design/lucide/circle-dot.svg?color=%233fb950" width="14" height="14" valign="middle" alt="Online" /></span> &nbsp;·&nbsp; Architecture: <span style="color: #79c0ff;">x86_64 / Linux CLI</span> &nbsp;·&nbsp; Shell: <span style="color: #d2a8ff;">zsh 5.9</span>
+            </p>
+            <p style="margin: 0 0 8px 0;">
+              <span style="color: #58a6ff; font-weight: bold;">[CORE_ARCH]</span> <b style="color: #ffffff;">Full-Stack Web Engineering:</b> High-Performance REST APIs, Scalable Backends, Distributed Relational &amp; NoSQL Databases
+            </p>
+            <p style="margin: 0 0 8px 0;">
+              <span style="color: #d2a8ff; font-weight: bold;">[AI_RESEARCH]</span> <b style="color: #ffffff;">Deep Learning &amp; Computer Vision:</b> PyTorch, TensorFlow, OpenCV, Scikit-Learn (Predictive Analytics &amp; Applied AI)
+            </p>
+            <p style="margin: 0 0 8px 0;">
+              <span style="color: #f0883e; font-weight: bold;">[ACTIVE_ROLES]</span> Software Developer @ <b style="color: #58a6ff;">PRception</b> &nbsp;·&nbsp; Co-Founder @ <b style="color: #bc8cff;">Brillowelle</b>
+            </p>
+            <p style="margin: 0 0 8px 0;">
+              <span style="color: #e3b341; font-weight: bold;">[ORIGIN_PATH]</span> Chemistry Graduate ➔ Software Engineer (<span style="color: #8b949e;">scientific first principles &amp; algorithmic rigor</span>)
+            </p>
+            <p style="margin: 0;">
+              <span style="color: #ff7b72; font-weight: bold;">[TOOLCHAIN]</span> Antigravity IDE · VS Code · PyCharm · Django · FastAPI · PostgreSQL · Redis · Docker · Linux · Git/GitHub · Postman · Shopify
+            </p>
+          </div>
+        </td>
+      </tr>
+      <!-- Terminal Bottom Retro Runner -->
+      <tr style="background-color: #05070a; border-top: 1px solid #21262d;">
+        <td align="center" style="padding: 10px 16px;">
+          <a href="https://github.com/mnihal-13" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="468" height="40" alt="Retro Pacman Arcade" style="display: block; max-width: 100%; height: auto;" />
+          </a>
+        </td>
+      </tr>
+    </table>
   </details>
-   -->
+
+</div>
+
+<br/>
+
+<!-- ================================================================= -->
+<!-- PROBLEM SOLVING & COMPETITIVE PROGRAMMING                         -->
+<!-- ================================================================= -->
+<div align="center">
+
+  <h3><img src="https://api.iconify.design/lucide/cpu.svg?color=%2338bdf8" width="20" height="20" valign="middle" alt="Algorithms" /> Problem Solving &amp; Algorithmic Grit</h3>
+
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://leetcode.com/u/MN_13/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/MN_13?theme=nord&font=Geist" alt="LeetCode Profile Card" height="175" />
+        </a>
+      </td>
+      <td width="24"></td>
+      <td align="center" valign="middle">
+        <a href="https://www.codewars.com/users/MN_13" target="_blank">
+          <img src="https://img.shields.io/badge/Codewars-Profile%20%26%20Rank-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge" />
+        </a>
+        <br/><br/>
+        <a href="https://leetcode.com/u/MN_13/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-MN__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Data%20Structures-161b22?style=flat-square&logo=codeforces&logoColor=38bdf8" alt="Algorithm Focus" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
+</div>
+
+<!-- ================================================================= -->
+<!-- GITHUB ANALYTICS & ENGINEERING PULSE                              -->
+<!-- ================================================================= -->
+<div align="center">
+
+  <h3><img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8" width="20" height="20" valign="middle" alt="Analytics" /> GitHub Analytics &amp; Engineering Pulse</h3>
+
+  <!-- STATS & TOP LANGUAGES -->
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/mnihal-13">
+          <img src="https://github-stats-extended.vercel.app/api?username=mnihal-13&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=30363D&hide_border=false&count_private=true&include_all_commits=true" height="185" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td width="16"></td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/mnihal-13">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mnihal-13&layout=compact&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=30363D&hide_border=false" height="185" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- STREAK STATS -->
+  <a href="https://github.com/mnihal-13">
+    <img src="https://streak-stats.demolab.com/?user=mnihal-13&background=0D1117&border=30363D&stroke=30363D&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=false" alt="Contribution Streak" width="85%" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mnihal-13/mnihal-13/output/snake.svg" alt="Contribution Snake" width="100%" />
+</div>
+
+<!-- NEON LASER DIVIDER (Cool-GIFs-For-GitHub) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="22" alt="Laser Divider" />
+</div>
+
+<!-- ================================================================= -->
+<!-- TECHNICAL PUBLICATIONS                                            -->
+<!-- ================================================================= -->
+<div align="center">
+
+  <h3><img src="https://api.iconify.design/lucide/book-open.svg?color=%2338bdf8" width="20" height="20" valign="middle" alt="Publications" /> Technical Publications</h3>
+
+  <p>
+    <a href="https://medium.com/@mn13" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-Read%20Technical%20Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium Profile" />
+    </a>
+  </p>
+
+  <a href="https://medium.com/@mn13" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0" alt="Latest Publication" />
+  </a>
+
+</div>
+
+
+<!-- ================================================================= -->
+<!-- FOOTER & OUTRO                                                    -->
+<!-- ================================================================= -->
+<div align="center">
+
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" width="70%" alt="Developer Studio" style="border-radius: 10px; border: 1px solid #30363D;" />
+
+  <br/><br/>
+  <p><i>"Driven by curiosity, validated by experiment, engineered with code."</i></p>
+
+  <p>
+    <a href="#top">
+      <img src="https://img.shields.io/badge/Back%20To%20Top-161b22?style=flat-square&logo=github&logoColor=38bdf8" alt="Back to Top" />
+    </a>
+  </p>
+
+</div>
