@@ -38,7 +38,7 @@
   <p align="center" style="margin-top: 14px;">
     <a href="https://www.linkedin.com/in/m-nihal13" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="https://twitter.com/mnihal_13" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
-    <a href="mailto:mnkv1013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+    <a href="mailto:connectwithnick6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
     <a href="https://wa.me/+918921479100" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>&nbsp;
     <a href="https://medium.com/@mn13" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
     <a href="https://leetcode.com/u/MN_13/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
