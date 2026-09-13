@@ -267,7 +267,7 @@
 <!-- ================================================================= -->
 <!-- TECHNICAL PUBLICATIONS                                            -->
 <!-- ================================================================= -->
-<div align="center">
+<!-- <div align="center">
 
   <h3><img src="https://api.iconify.design/lucide/book-open.svg?color=%2338bdf8" width="20" height="20" valign="middle" alt="Publications" /> Technical Publications</h3>
 
@@ -281,7 +281,7 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mn13/0" alt="Latest Publication" />
   </a>
 
-</div>
+</div> -->
 
 
 <!-- ================================================================= -->
