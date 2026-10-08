@@ -14,7 +14,7 @@
 
   <!-- REFINED TWO-TONE METADATA PILLS -->
   <p align="center">
-    <a href="https://github.com/mnihal-13"><img src="https://img.shields.io/badge/Role-Software%20Developer%20%40%20PRception-0D1117?style=flat&logo=codefactor&logoColor=38BDF8&labelColor=161B22" alt="Role" /></a>&nbsp;
+    <a href="https://github.com/mnihal-13"><img src="https://img.shields.io/badge/Role-Software%20Developer%20?style=flat&logo=codefactor&logoColor=38BDF8&labelColor=161B22" alt="Role" /></a>&nbsp;
     <a href="https://brillowelle.com" target="_blank"><img src="https://img.shields.io/badge/Co--Founder-%40%20Brillowelle-0D1117?style=flat&logo=target&logoColor=38BDF8&labelColor=161B22" alt="Brillowelle" /></a>&nbsp;
     <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-0D1117?style=flat&logo=googlemaps&logoColor=38BDF8&labelColor=161B22" alt="Location" />&nbsp;
     <a href="https://github.com/mnihal-13"><img src="https://komarev.com/ghpvc/?username=mnihal-13&label=VIEWS&color=0284c7&style=flat" alt="Views" /></a>
